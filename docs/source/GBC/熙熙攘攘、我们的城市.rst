@@ -1,0 +1,276 @@
+雑踏、僕らの街 (熙熙攘攘、我们的城市)
+=======================================
+
+.. code-block::
+
+    ya ri no ko shi ta ko dou (ga)
+    ko no yo wo oo tte
+    残存的心跳 覆盖了这个夜晚
+
+.. code-block::
+
+    bo ku ra wo (tsu) tsu n de
+    ko na go na ni na ru mae ni
+    它在彻底粉碎前 将我们包裹其中
+
+.. code-block::
+
+    ta yo ri na ku te mo ii so no te wo
+    即是不去依赖他人伸出手臂
+
+.. code-block::
+
+    ko no te wa ji bun ji shin no mo no sa
+    这双手就属于自己
+
+.. code-block::
+
+    ka wa ra na i ha zu wa nai yo
+    te wo no ba shi te
+    一切并非无法改变 伸出手吧
+
+.. code-block::
+
+    za ttou no na ka de
+    koe naki koe de na i te i ru
+    我在拥挤的人群中无声地哭泣着
+
+.. code-block::
+
+    a shi a to ga i ma
+    da re ka no koe wo ke shi ta a sa
+    残留的足迹 如今将某人的声音消散在清晨
+
+.. code-block::
+
+    i tsu ni na tte mo
+    ka re ru ko to no nai
+    无论何时都不会枯萎
+
+.. code-block::
+
+    fu hai shi ta ma chi no
+    do ro mi zu ga tsu me ta i
+    腐败的街道 泥水让人感到冰冷
+
+.. code-block::
+
+    nan ni mo ka wa ra nai se kai de
+    在一成不变的世界里
+
+.. code-block::
+
+    kyou da tte i ki te yu kun da
+    今天我依旧要选择活着
+
+.. code-block::
+
+    ku da ra na i ke do
+    shi ka ta nai de sho
+    虽然人生无趣 也毫无办法的吧
+
+.. code-block::
+
+    bo ku ra wa mo u
+    a ru ki ha ji me ta n da
+    我们已经踏上此途
+
+.. code-block::
+
+    u so mi tai na
+    ba ka mi tai na
+    像极了深信谎言的傻瓜
+
+.. code-block::
+
+    dou shi you mo nai bo ku ra no ma chi
+    我们这座城市早已毫无救药
+
+.. code-block::
+
+    so re de mo
+    ko no me de ta shi ka ni mie tan da
+    即便如此 我仍试着去亲眼见证
+
+.. code-block::
+
+    ko no te de ta shi ka ni fu re tan da
+    nee hora hora
+    用这双手去亲手触碰 呐啊 看啊 看啊
+
+.. code-block::
+
+    hora ma ta fu i ta
+    ba ka mi tai da
+    看啊 又像受尽嘲笑的傻瓜
+
+.. code-block::
+
+    dou shi you mo nai ya mi wo te ra se
+    照亮那份无尽的黑暗
+
+.. code-block::
+
+    yu me ja nai
+    dou seo wa tte ru ma chi da tte
+    这并非梦境 反正这座城市早已到了结局
+
+.. code-block::
+
+    a ki ra me ta tte ka wan nai ze
+    aa mada mada mada
+    纵使放弃也无法改变 所以还没有 没有 结束
+
+.. code-block::
+
+    ya ri no ko shi ta ko dou (ga)
+    ko no yo wo oo tte
+    残存的心跳 覆盖了这个夜晚
+
+.. code-block::
+
+    bo ku ra wo (tsu) tsu n de
+    ko na go na ni na ru mae ni
+    它在彻底粉碎前 将我们包裹其中
+
+.. code-block::
+
+    ta yo ri na ku te mo ii so no te wo
+    即使不去依赖他人伸出手臂
+
+.. code-block::
+
+    ko no te wa ji bun ji shin no mo no sa
+    这双手就属于自己
+
+.. code-block::
+
+    ka wa ra na i ha zu wa nai yo
+    te wo no ba shi te
+    一切并非无法改变 伸出手吧
+
+.. code-block::
+
+    ei en no na ka de
+    ma yo wa nai ta me no nu ku mo ri
+    为了不迷失在永远中而存在的温暖
+
+.. code-block::
+
+    kei haku na ki mi ni
+    to do ku ko to na ku chi tte yu ku
+    还未传达给轻佻的你 就已凋零
+
+.. code-block::
+
+    sou zou do o ri
+    son na ha zu wa nai
+    和想像中一致？ 那什么可能
+
+.. code-block::
+
+    ni ge rya ii de sho
+    kan tan ni i wa nai de
+    逃避不就行了吗？ 不要说得那么简单啊
+
+.. code-block::
+
+    i tsu mo do o ri no se kai wo
+    和往常相同的世界
+
+.. code-block::
+
+    kyou da tte ka ke te yu kun da
+    今天我也要继续追逐
+
+.. code-block::
+
+    su be ri o chi ta ra
+    tsu kan de ya rou
+    若是途中滑落 那就去抓住
+
+.. code-block::
+
+    ha ii ro no so ra
+    so no na ka de ki ra me ku a o sa wo
+    在灰色天空中 闪烁着的蓝星
+
+.. code-block::
+
+    u so mi tai na
+    ba ka mi tai na
+    像极了深信谎言的傻瓜
+
+.. code-block::
+
+    dou shi you mo nai bo ku ra no ma chi
+    我们这座城市早已毫无救药
+
+.. code-block::
+
+    so re de mo
+    ko no me de ta shi ka ni mie tan da
+    即便如此 我仍试着去亲眼见证
+
+.. code-block::
+
+    ko no te de ta shi ka ni fu re tan da
+    nee hora hora
+    用这双手去亲手触碰 呐啊 看啊 看啊
+
+.. code-block::
+
+    hora ma ta fu i ta
+    ba ka mi tai da
+    看啊 又像受尽嘲笑的傻瓜
+
+.. code-block::
+
+    dou shi you mo nai ya mi wo te ra se
+    照亮那份无尽的黑暗
+
+.. code-block::
+
+    yu me ja nai
+    dou seo wa tte ru ma chi da tte
+    这并非梦境 反正这座城市早已到了结局
+
+.. code-block::
+
+    a ki ra me ta tte ka wan nai ze
+    aa mada mada mada
+    纵使放弃也无法改变 所以还没有 没有 结束
+
+.. code-block::
+
+    ya ri no ko shi ta ko dou (ga)
+    ko no yo wo oo tte
+    残存的心跳 覆盖了这个夜晚
+
+.. code-block::
+
+    bo ku ra wo (tsu) tsu n de
+    ko na go na ni na ru mae ni
+    它在彻底粉碎前 将我们包裹其中
+
+.. code-block::
+
+    ta yo ri na ku te mo ii so no te wo
+    即使不去依赖他人伸出手臂
+
+.. code-block::
+
+    ko no te wa ji bun ji shin no mo no sa
+    这双手就属于自己
+
+.. code-block::
+
+    ka wa ra na i ha zu wa nai yo
+    te wo no ba shi te
+    一切并非无法改变 伸出手吧
+
+.. code-block::
+
+    na ni mo ka mo ki mi shi dai de
+    bo ku shi dai sa
+    一切都取决于你 取决于我

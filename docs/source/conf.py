@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Rocco Lyrics'
+copyright = ''
+author = 'liuzhaoze'
 
-release = '0.1'
-version = '0.1.0'
+release = ''
+version = ''
 
 # -- General configuration
 
@@ -26,6 +26,9 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 # -- Options for HTML output
 

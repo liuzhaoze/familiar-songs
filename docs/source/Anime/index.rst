@@ -1,0 +1,6 @@
+Anime
+=======
+
+.. toctree::
+
+   idol
