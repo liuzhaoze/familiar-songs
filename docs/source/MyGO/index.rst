@@ -1,6 +1,6 @@
-曲库
+MyGO
 ======
 
 .. toctree::
 
-   MyGO/index
+   猛独侵袭
