@@ -1,0 +1,4 @@
+.rst-content div[class^=highlight] pre {
+    font-size: 16px;
+    white-space: pre-wrap;
+}
