@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+The Read the Docs project of my familiar song lyrics.
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://rocco-lyrics.readthedocs.io/zh-cn/latest/
